@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./personalization-ui.dp3h6u5g.js";try{if(await n()){let n=await e(),r=document.querySelector(`[data-personal-status]`),i=r?.querySelector(`.segment-display`);r&&i&&(t(i,`${n.size}/${r.dataset.total??0}`),r.hidden=!1)}}catch{}

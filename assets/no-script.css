@@ -1,0 +1,4 @@
+@media (max-width: 860px) {
+  .nav-toggle { display: none; }
+  .mobile-nav-menu[hidden] { display: flex; }
+}
